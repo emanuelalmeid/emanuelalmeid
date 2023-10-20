@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emanuel de Almeida Alves</h1>
 <h3 align="center">Passionate to solve real problems with data and to achieve exponential results</h3>
 
-- 🔭 I’m currently working as **Key Account Supervisor**
+- 🔭 I’m currently working as **Support T.I**
 
-- 🌱 I’m currently learning **Spark, PowerBi and Tableau**
-
-- 👯 I’m looking to collaborate in **data analyst projects**
+- 👯 I’m looking to collaborate in **data engineer projects**
 
 - 📫 How to reach me **emanuelalmeidaalves123@gmail.com**
 
