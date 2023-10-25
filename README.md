@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **emanuelalmeidaalves123@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ emanueldealmeida]
+- 📄 Know about my experiences [www.linkedin.com/in/emanueldealmeida]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
