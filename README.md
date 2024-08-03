@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuel de Almeida Alves</h1>
 <h3 align="center">Passionate to solve real problems with data and to achieve exponential results</h3>
 
-- 🔭 I’m currently working as **Support T.I**
+- 🔭 I’m currently working as **Data Specialist**
 
 - 👯 I’m looking to collaborate in **data engineer projects**
 
